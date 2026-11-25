@@ -1,0 +1,4 @@
+U1;Benali;Sara;ENSEIGNANT
+U2;Trabelsi;Mohamed;ETUDIANT
+U3;Ben Salah;Hédi;ENSEIGNANT
+U4;Jlassi;Amina;ETUDIANT

@@ -1,0 +1,9 @@
+/target/
+
+# État d'exécution du projet de réservation (recréé par le programme, non versionné)
+data/compteurs.txt
+# Copies de secours créées quand des lignes de données sont incorrectes
+data/*.bak
+
+# Réglages locaux de NetBeans
+nbproject/private/
